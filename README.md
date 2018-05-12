@@ -1,5 +1,3 @@
-# On the Relation Between theHistory of Changes and Bugs-Introduction
-
 ### Change Metrics
 
 1. ANNOTATION_TYPE_DECLARATION
