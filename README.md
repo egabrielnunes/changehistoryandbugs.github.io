@@ -106,7 +106,7 @@
 | NOIP              | Number of Imports                | IMPORT_DECLARATION              |                                     
 | NOO               | Number of Object Instantiations  | CLASS_INSTANCE_CREATION         |                              
 | NES               | Number of Enumeration Statements | ENUM_CONSTANT_DECLARATION, ENUM_DECLARATION            |     
-| NOE               | Number of Expressions            | CAST_EXPRESSION, INFIX_EXPRESSION, LAMBDA_EXPRESSION, INSTANCEOF_EXPRESSION, POSTFIX_EXPRESSION, PREFIX_EXPRESSION, THIS_EXPRESSION | PARENTHESIZED_EXPRESSION, INTERSECTION_TYPE |
+| NOE               | Number of Expressions            | CAST_EXPRESSION, INFIX_EXPRESSION, LAMBDA_EXPRESSION, INSTANCEOF_EXPRESSION, POSTFIX_EXPRESSION, PREFIX_EXPRESSION, THIS_EXPRESSION, PARENTHESIZED_EXPRESSION, INTERSECTION_TYPE |
 | NOES              | Number of Exceptions             | CATCH_CLAUSE, THROW_STATEMENT, TRY_STATEMENT                |    
 | NOLI              | Number of Literals               | BOOLEAN_LITERAL, CHARACTER_LITERAL, NUMBER_LITERAL, STRING_LITERAL, TYPE_LITERAL, NULL_LITERAL      |  
 | NOBS              | Number of Branching Statements   | CONTINUE_STATEMENT, BREAK_STATEMENT, RETURN_STATEMENT          |  
