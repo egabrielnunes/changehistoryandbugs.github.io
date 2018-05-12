@@ -1,6 +1,7 @@
 # changehistoryandbugs
 
 | Acronym of Groups | Group Name                       | Metrics                         |  
+|-------------------|----------------------------------|----------------------------------|
 | NOCN              | Number of Conditions             | IF_STATEMENT, SWITCH_STATEMENT, SWITCH_CASE                  | 
 | NOL               | Number of Loops                | FOR_STATEMENT, WHILE_STATEMENT, DO_STATEMENT, ENHANCED_FOR_STATEMENT | 
 | NOMC              | Number of Method Calls           | METHOD_INVOCATION, SUPER_METHOD_INVOCATION, SUPER_CONSTRUCTOR_INVOCATION, CONSTRUCTOR_INVOCATION   |     
