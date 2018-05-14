@@ -1,8 +1,7 @@
 ## Authors
-Gabriel Nunes∗, Jairo Souza∗, Baldoino Fonseca∗, Marcio Ribeiro∗and Alessandro Garcia†\
+Gabriel Nunes∗, Jairo Souza∗, Baldoino Fonseca∗, Marcio Ribeiro∗ and Alessandro Garcia†\
 ∗Computing Institute, Federal University of Alagoas (UFAL), Brazil\
 †Opus Research Group – LES, Informatics Dept., PUC-Rio, Brazil\
-(gabrielnunes, jrmcs, baldoino, marcio)@ic.ufal.br, afgarcia@inf.puc-rio.br
 
 ## Abstract
 
