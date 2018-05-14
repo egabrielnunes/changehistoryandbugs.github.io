@@ -1,3 +1,14 @@
+## Authors
+Gabriel Nunes∗, Jairo Souza∗, Baldoino Fonseca∗, Marcio Ribeiro∗and Alessandro Garcia†\
+∗Computing Institute, Federal University of Alagoas (UFAL), Brazil\
+†Opus Research Group – LES, Informatics Dept., PUC-Rio, Brazil\
+(gabrielnunes, jrmcs, baldoino, marcio)@ic.ufal.br, afgarcia@inf.puc-rio.br
+
+## Abstract
+
+During the evolution of a software, developers perform changes that may lead to the introduction of bugs. Hence, it is important to better understand the bug-introducing changes, as well as which kinds of changes, are more related to the introduction of bugs. Recent studies investigated the relation between changes and bugs. However, they consider only single changes rather than the software changes history. In our study, we investigate the relation between the history of changes and the introduction of bugs. We collected 4,613 bugs introduced along the history of 303,068 methods from 12 open-source systems. The results indicate that the majority of the investigated methods contain a long history to be analyzed; the longer the changes in methods, higher is the density of bugs introduced; additions are more prone to introduce bugs than deletion; and changes involving method calls and statements have a higher influence to introduce bugs. 
+
+
 ## Groups Table
 
 | Acronym  | Group Name                       | Metrics                         |  
@@ -116,3 +127,6 @@
 89. VARIABLE_DECLARATION_STATEMENT
 90. WHILE_STATEMENT
 91. WILDCARD_TYPE
+
+
+## Dataset
